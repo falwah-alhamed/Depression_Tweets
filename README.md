@@ -1,6 +1,6 @@
 # Depressed Users on Twitter
 
-Repository for "Classifying Social Media Users Before and After Depression Diagnosis via their Language Usage: A Dataset and Study" paper, published in LREC-COLING 2024. Full text of the paper can be found [here](). All updates on this public dataset can be found in this repository.
+Repository for "Classifying Social Media Users Before and After Depression Diagnosis via their Language Usage: A Dataset and Study" paper, published in LREC-COLING 2024. Full text of the paper can be found [here](). All updates on this public dataset can be found in this repository. (Soon)
 
 The dataset provided here includes an updated version of the original dataset, with ~500k tweets annotated to two classes (before / after) The classes are annotated based on the disclosed date of depression diagnosis : 
 * Depressed_users_labels.csv: contains ~500k rows, where every row is consisted of a unique Tweet ID and its according annotation
