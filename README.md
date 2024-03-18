@@ -4,6 +4,7 @@ Repository for "Classifying Social Media Users Before and After Depression Diagn
 
 The dataset provided here includes an updated version of the original dataset, with ~500k tweets annotated to two classes (before / after) The classes are annotated based on the disclosed date of depression diagnosis : 
 * Depressed_users_labels.csv: contains ~500k rows, where every row is consisted of a unique Tweet ID and its according annotation
+* Depression_Symptoms_lexicon.txt: contains 698 words related to depression symptoms and diagnosis
 
 UPDATE: 
 It has come to our understanding that a number of the tweets are not available anymore for download on Twitter. We are happy to provide one more file with the full 500k tweet text and their associated labels. The tweets are shuffled so that there is no connection between tweet IDs and texts (in order to be aligned with the T&C of Twitter). To obtain the file please visit [this Zenodo page]().
