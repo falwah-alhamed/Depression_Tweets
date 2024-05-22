@@ -2,7 +2,9 @@
 
 Repository for [Classifying Social Media Users Before and After Depression Diagnosis via their Language Usage: A Dataset and Study](https://aclanthology.org/2024.lrec-main.289/) paper, published in LREC-COLING 2024.  All updates on this public dataset can be found in this repository.
 
-The dataset provided here includes an updated version of the original dataset, with ~500k tweets annotated to two classes (before / after) The classes are annotated based on the disclosed date of depression diagnosis : 
+The dataset provided consists of approximately 500,000 tweets annotated based on users' disclosed dates of depression diagnosis. Tweets are classified into two classes: before diagnosis and after diagnosis. Tweets labeled "before" were posted prior to the user's reported depression diagnosis, while "after" tweets were posted following the reported diagnosis.
+
+This repository consists of two files:
 * Depressed_users_labels.csv: contains ~500k rows, where every row consists of a unique Tweet ID and its according annotation
 * Depression_symptoms_lexicon.txt: contains 598 words related to depression symptoms and diagnosis
 
