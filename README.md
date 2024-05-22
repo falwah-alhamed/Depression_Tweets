@@ -6,7 +6,7 @@ The dataset provided here includes an updated version of the original dataset, w
 * Depressed_users_labels.csv: contains ~500k rows, where every row consists of a unique Tweet ID and its according annotation
 * Depression_symptoms_lexicon.txt: contains 598 words related to depression symptoms and diagnosis
 
-
+You can access tweets/posts' texts by retrieving them from X (Twitter) using the tweet IDs in the file. You can do so using X [developer account for academic research](https://developer.x.com/en/use-cases/do-research/academic-research) 
 
 _**Please cite the paper in any published work that uses any of these resources.**_
 ```
